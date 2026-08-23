@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayan16662/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Ayan16662/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayan16662/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Ayan16662/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 <!---LeetCode Topics End-->
