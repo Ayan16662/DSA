@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Ayan16662/DSA/tree/master/1748-sum-of-unique-elements) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Ayan16662/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
