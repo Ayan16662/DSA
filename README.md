@@ -38,4 +38,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ayan16662/DSA/tree/master/0007-reverse-integer) |
+| [1688-count-of-matches-in-tournament](https://github.com/Ayan16662/DSA/tree/master/1688-count-of-matches-in-tournament) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Ayan16662/DSA/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
