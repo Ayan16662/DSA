@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ayan16662/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ayan16662/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Ayan16662/DSA/tree/master/0724-find-pivot-index) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ayan16662/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1748-sum-of-unique-elements](https://github.com/Ayan16662/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Ayan16662/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ayan16662/DSA/tree/master/0007-reverse-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Ayan16662/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ayan16662/DSA/tree/master/1688-count-of-matches-in-tournament) |
 ## Simulation
 |  |
