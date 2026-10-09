@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Ayan16662/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ayan16662/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Ayan16662/DSA/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Ayan16662/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayan16662/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ayan16662/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1748-sum-of-unique-elements](https://github.com/Ayan16662/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ayan16662/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ayan16662/DSA/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Ayan16662/DSA/tree/master/0414-third-maximum-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Ayan16662/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayan16662/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
