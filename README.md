@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ayan16662/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Ayan16662/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ayan16662/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayan16662/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ayan16662/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ayan16662/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Ayan16662/DSA/tree/master/0724-find-pivot-index) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ayan16662/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ayan16662/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Ayan16662/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayan16662/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayan16662/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Ayan16662/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Prefix Sum
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayan16662/DSA/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayan16662/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/Ayan16662/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ayan16662/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ayan16662/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ayan16662/DSA/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Ayan16662/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ayan16662/DSA/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ayan16662/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayan16662/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -96,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayan16662/DSA/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ayan16662/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
