@@ -1,8 +1,20 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        for(int i = 0; i<n; i++){
-            nums1[m+i] = nums2[i];
+        int i = m - 1;        // Last element of nums1's initial part
+        int j = n - 1;        // Last element of nums2
+        int k = m + n - 1;    // Last index of merged array
+
+        while (i >= 0 && j >= 0) {
+            if (nums1[i] > nums2[j]) {
+                nums1[k--] = nums1[i--];
+            } else {
+                nums1[k--] = nums2[j--];
+            }
         }
-        Arrays.sort(nums1);
+
+        // Copy remaining elements from nums2 if any
+        while (j >= 0) {
+            nums1[k--] = nums2[j--];
+        }
     }
-    }
+}
