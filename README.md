@@ -113,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ayan16662/DSA/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Ayan16662/DSA/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
