@@ -57,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ayan16662/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ayan16662/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayan16662/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Ayan16662/DSA/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/Ayan16662/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayan16662/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Ayan16662/DSA/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/Ayan16662/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Math
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayan16662/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ayan16662/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ayan16662/DSA/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/Ayan16662/DSA/tree/master/0383-ransom-note) |
 ## String Matching
 |  |
 | ------- |
