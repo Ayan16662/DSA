@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ayan16662/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ayan16662/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1748-sum-of-unique-elements](https://github.com/Ayan16662/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2574-left-and-right-sum-differences](https://github.com/Ayan16662/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Ayan16662/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ayan16662/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Ayan16662/DSA/tree/master/0724-find-pivot-index) |
+| [2574-left-and-right-sum-differences](https://github.com/Ayan16662/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
