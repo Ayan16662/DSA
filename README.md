@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ayan16662/DSA/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/Ayan16662/DSA/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Ayan16662/DSA/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Ayan16662/DSA/tree/master/0441-arranging-coins) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ayan16662/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ayan16662/DSA/tree/master/1688-count-of-matches-in-tournament) |
 ## Simulation
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ayan16662/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/Ayan16662/DSA/tree/master/0441-arranging-coins) |
 ## Union-Find
 |  |
 | ------- |
