@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayan16662/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ayan16662/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Ayan16662/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Ayan16662/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Ayan16662/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Ayan16662/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ayan16662/DSA/tree/master/0056-merge-intervals) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ayan16662/DSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Ayan16662/DSA/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/Ayan16662/DSA/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Ayan16662/DSA/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Ayan16662/DSA/tree/master/0441-arranging-coins) |
@@ -183,5 +185,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ayan16662/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ayan16662/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
