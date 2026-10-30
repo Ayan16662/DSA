@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ayan16662/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ayan16662/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayan16662/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Ayan16662/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ayan16662/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ayan16662/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Ayan16662/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ayan16662/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Ayan16662/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ayan16662/DSA/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Ayan16662/DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayan16662/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Ayan16662/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Ayan16662/DSA/tree/master/0409-longest-palindrome) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayan16662/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ayan16662/DSA/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Ayan16662/DSA/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/Ayan16662/DSA/tree/master/1748-sum-of-unique-elements) |
 ## Math
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ayan16662/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ayan16662/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayan16662/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Ayan16662/DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayan16662/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ayan16662/DSA/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ayan16662/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ayan16662/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Ayan16662/DSA/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
