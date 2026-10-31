@@ -1,39 +1,39 @@
+
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-        List<List<Integer>> li=new ArrayList<>();
-        if(nums==null || nums.length<4){
-            return li;
-        }
-        Arrays.sort(nums);
-        for(int i=0;i<nums.length-3;i++){
-            if(i>0&&nums[i]==nums[i-1]){
-                continue;
-            }
-            for(int j=i+1;j<nums.length-2;j++){
-                if(j>i+1&&nums[j]==nums[j-1]){
-                    continue;
-                }
-                int left=j+1; int right=nums.length-1;
-                while(left<right){
-                    long sum=(long)nums[i]+nums[j]+nums[left]+nums[right];
-                    if(sum==target){
-                        li.add(Arrays.asList(nums[i],nums[j],nums[left],nums[right]));
-                        while(left<right&&nums[left]==nums[left+1]){
-                            left++;
-                        }
-                        while(left<right&&nums[right]==nums[right+-1]){
-                            right--;
-                        }
-                        left++;
-                        right--;
-                    }else if(sum<target){
-                        left++;
-                    }else{
-                        right--;
+
+        int n = nums.length;
+
+        Set<List<Integer>> ans = new HashSet<>();
+
+        for(int i = 0; i < n; i++) {
+
+            for(int j = i + 1; j < n; j++) {
+
+                Set<Long> set = new HashSet<>();
+
+                for(int k = j + 1; k < n; k++) {
+
+                    long sum = (long) nums[i] + nums[j] + nums[k];
+
+                    long fourth = (long) target - sum;
+
+                    if(set.contains(fourth)) {
+
+                        List<Integer> temp = Arrays.asList(
+                            nums[i], nums[j], nums[k], (int) fourth
+                        );
+
+                        Collections.sort(temp);
+
+                        ans.add(temp);
                     }
+
+                    set.add((long) nums[k]);
                 }
             }
         }
-        return li;
+
+        return new ArrayList<>(ans);
     }
 }
