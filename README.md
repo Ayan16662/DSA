@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ayan16662/DSA/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/Ayan16662/DSA/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Ayan16662/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Ayan16662/DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Ayan16662/DSA/tree/master/0441-arranging-coins) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ayan16662/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ayan16662/DSA/tree/master/1688-count-of-matches-in-tournament) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ayan16662/DSA/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Ayan16662/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Ayan16662/DSA/tree/master/0415-add-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ayan16662/DSA/tree/master/1688-count-of-matches-in-tournament) |
 ## Greedy
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ayan16662/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Ayan16662/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Ayan16662/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Ayan16662/DSA/tree/master/0415-add-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayan16662/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
