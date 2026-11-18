@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ayan16662/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ayan16662/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Ayan16662/DSA/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/Ayan16662/DSA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Ayan16662/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Ayan16662/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Ayan16662/DSA/tree/master/0409-longest-palindrome) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Ayan16662/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ayan16662/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Ayan16662/DSA/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Ayan16662/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Ayan16662/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Ayan16662/DSA/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Ayan16662/DSA/tree/master/0412-fizz-buzz) |
