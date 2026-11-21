@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Ayan16662/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Ayan16662/DSA/tree/master/0048-rotate-image) |
+| [0172-factorial-trailing-zeroes](https://github.com/Ayan16662/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/Ayan16662/DSA/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Ayan16662/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Ayan16662/DSA/tree/master/0415-add-strings) |
