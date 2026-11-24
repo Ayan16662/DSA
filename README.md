@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Ayan16662/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Ayan16662/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Ayan16662/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ayan16662/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Ayan16662/DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Ayan16662/DSA/tree/master/0441-arranging-coins) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ayan16662/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ayan16662/DSA/tree/master/1688-count-of-matches-in-tournament) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ayan16662/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
@@ -237,4 +239,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ayan16662/DSA/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ayan16662/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ayan16662/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ayan16662/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
